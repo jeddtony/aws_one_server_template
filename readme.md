@@ -20,3 +20,6 @@ This example creates:
 Please note that this example will deploy real resources into your AWS account. We have made every effort to ensure all the resources qualify for the AWS Free Tier, but we are not responsible for any charges you may incur.
 
 Configure your AWS access keys as environment variables:
+
+## Sample Output
+![image](https://github.com/user-attachments/assets/b5ba085c-2fec-4ee4-98a0-d861839858e5)
